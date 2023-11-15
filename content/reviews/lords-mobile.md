@@ -1,6 +1,6 @@
 ---
 title: "Lord's Mobile"
-date: "11-03-2023"
+date: "11-13-2023"
 image: "/images/lords-mobile.jpg"
 ---
 
